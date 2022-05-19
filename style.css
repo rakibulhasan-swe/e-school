@@ -12,3 +12,6 @@ body{
 .extra-color{
     color: #21B573;
 }
+.card{
+    cursor: pointer;
+}
